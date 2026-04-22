@@ -48,7 +48,7 @@ Scripts are organized by function and purpose within the repository.
 - integrate with APIs or system tools
 
 ## Notes 
-These scripts were created as part of hands-on practice and skill development. They are intended as learning tools and foundational automation examples rather than production-ready solutions.
+Designed for hands-on practice and skill development, demonstrating foundational automation and scripting concepts.
 
 ## Takeaway
 This repository demonstrates practical experience with scripting, automation, and system-level thinking.
